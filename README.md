@@ -1,5 +1,9 @@
 ### Hey, I'm Ben 👋
 
+- 🎮 I play a ton of games. Probably too much. 
+- 🥽 VR Developer and Entheusiast
+- 🤔 What the heck is oatmeal?
+
 
 
 <!--
