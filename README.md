@@ -4,8 +4,6 @@
 - 🥽 VR Developer and Enthusiast
 - 🤔 What the heck is oatmeal?
 
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V225HHR)
 <!--
 **benaclejames/benaclejames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
