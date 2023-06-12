@@ -1,5 +1,6 @@
 ## 👋 Hey, I'm Ben 
 
+- 🌴 Unemployed
 - 🎮 I play a ton of games. Probably too much. 
 - 🥽 VR Developer and Enthusiast
 - 🤔 What the heck is oatmeal?
